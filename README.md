@@ -1,6 +1,6 @@
 # Terminal-D
 
-A  bash script that , Ive been created for distinct root user terminal from others.
+A  bash script that , Ive been created for distinct root user terminal from others.  (so run as root user)
 
 Also change timezone from UTC to  Asia/Tehran.(to change timezone edit it before run)
 
